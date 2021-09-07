@@ -7,7 +7,6 @@ Albin manoj
         />
     </a>
 <div align="center">
-  <img border-radius: 15px src="Master[2].jpeg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Master" src="https://img.shields.io/badge/Master-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
