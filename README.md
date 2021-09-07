@@ -1,15 +1,22 @@
-
+Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+My+VidhyaMwol+BOT+codded+by+Albin..."
+            alt="Typing SVG"
+        />
+    </a>
 <div align="center">
   <img border-radius: 15px src="Meenakshi[2].jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Meenakshi" src="https://img.shields.io/badge/Meenakshi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Meenakshi" src="https://img.shields.io/badge/Master-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/vishnu-kayamkulam"><img title="Author" src="https://img.shields.io/badge/Author-vishnu-kayamkulam/Meenakshi?color=pink&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Albin-manoj3"><img title="Author" src="https://img.shields.io/badge/Author-vishnu-kayamkulam/Meenakshi?color=pink&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/vishnu-kayamkulam">vishnu-kayamkulam</a> to make it public
+Project created by <a href="https://github.com/vishnu-kayamkulam">Albin-manoj3</a> to make it public
     <br>
        | © |
         Reserved |
